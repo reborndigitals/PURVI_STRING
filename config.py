@@ -6,7 +6,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID","8045459"))
 API_HASH = getenv("API_HASH","e6d1f09120e17a4372fe022dde88511b")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "2132260441:AAGPjMCj6vq5_xhcZoxluYFJ_egPrSm1o6U")
 OWNER_ID = int(getenv("OWNER_ID","1281282633"))
 
 MONGO_DB_URI = getenv("mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
