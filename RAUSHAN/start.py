@@ -33,7 +33,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/HeartBeat_Offi")
                 ],
                 [
-                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/Thedakkidaikathaval")
+                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/thedakkidaikathaval_bot")
                 ]                
             ]
         )
